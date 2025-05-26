@@ -47,11 +47,11 @@ An AI-driven decision support tool that:
 
 ## 📽️ Deliverables
 
+- [x] Market, regulatory, and competitor research
 - [x] Explainer video (created with Canva)  
 - [x] Edited investor pitch (CapCut)  
 - [x] Full investor-ready final report (PDF)  
-- [x] Presentation deck  
-- [x] Market, regulatory, and competitor research
+
 
 ---
 
